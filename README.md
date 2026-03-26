@@ -2,7 +2,7 @@
 My learning journey through DataTalks.Club's  9-week course on 
 building production-ready data pipelines.
 
-![Status](https://img.shields.io/badge/status-in%20progress-yellow)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 ![Course](https://img.shields.io/badge/DataTalks.Club-DE%20Zoomcamp%202026-blue)
 📎 [Course repository](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 
